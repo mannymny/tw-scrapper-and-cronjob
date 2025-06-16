@@ -16,6 +16,9 @@
 
 1. Download and run the setup script:
 
-```bash
 chmod +x setup_tw_scraper.sh
 ./setup_twt_scraper.sh
+
+## 📃 License
+
+This project is licensed under the MIT License.
